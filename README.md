@@ -36,6 +36,4 @@
 **🌐 Connect:**
 - Let's connect! Reach out for discussions, questions, or just to share your own coding journey.
 
-Feel free to clone, fork, or contribute to this project. Join me as I embark on this exciting coding adventure, and let's learn and grow together! 🚀✨
-
-Happy coding! 🖥️💻
+ #TEST MY PROJECT HERE!!:https://journeytocodejs.ccbp.tech/
